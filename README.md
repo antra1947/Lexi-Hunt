@@ -1,4 +1,4 @@
-# 🧠 Lexi Hunt (Python Project)
+# 🧠  Hangman Game(Python Project)
 
 ## 📌 Overview
 
